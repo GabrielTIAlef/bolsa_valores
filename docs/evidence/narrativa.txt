@@ -1,0 +1,10 @@
+Dados integralmente fictícios.
+Resumo descritivo de retorno de preço ajustado por split; não inclui dividendos.
+Volume é quantidade de ações e não mede sozinho a liquidez.
+DEMO_A: 262 observações de 2024-01-01 a 2024-12-31; variação de preço no intervalo -3.95%; drawdown mínimo -12.40%; volume bruto 204708433 ações.
+DEMO_B: 262 observações de 2024-01-01 a 2024-12-31; variação de preço no intervalo -9.80%; drawdown mínimo -16.07%; volume bruto 131276710 ações.
+DEMO_C: 262 observações de 2024-01-01 a 2024-12-31; variação de preço no intervalo 3.27%; drawdown mínimo -17.21%; volume bruto 130409337 ações.
+DEMO_D: 262 observações de 2024-01-01 a 2024-12-31; variação de preço no intervalo 18.15%; drawdown mínimo -11.20%; volume bruto 132179571 ações.
+DEMO_E: 262 observações de 2024-01-01 a 2024-12-31; variação de preço no intervalo 24.51%; drawdown mínimo -12.57%; volume bruto 121101154 ações.
+DEMO_F: 262 observações de 2024-01-01 a 2024-12-31; variação de preço no intervalo 11.91%; drawdown mínimo -30.70%; volume bruto 125113082 ações.
+Não há previsão, ranking de investimento ou sinal de compra/venda.
